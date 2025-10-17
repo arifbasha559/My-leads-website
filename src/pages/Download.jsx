@@ -12,7 +12,7 @@ export default function Download() {
 
         {/* Direct .crx Download Button */}
         <a
-          href="/my-extension.crx"
+          href="https://github.com/arifbasha559/MyLeads/releases/download/v1.0.0/my-extension.crx"
           download
           className="bg-green-600 text-white px-8 py-3 rounded-full hover:bg-green-700 transition"
         >
